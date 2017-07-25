@@ -1,0 +1,37 @@
+{
+  "name": "react-dynamic-import-esri-js-api",
+  "version": "1.0.0",
+  "description": "React Dynamic Import ESRI JS API",
+  "homepage": "https://ziveo.github.com/React-Dynamic-Import-ESRI-JS-API",
+  "dependencies": {
+    "gh-pages": "^1.0.0",
+    "esri-loader": "^1.1.0",
+    "react": "^16.0.0-alpha.13",
+    "react-dom": "^16.0.0-alpha.13",
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziveo/React-Dynamic-Import-ESRI-JS-API.git"
+  },
+  "keywords": [
+    "ESRI",
+    "API",
+    "React",
+    "Dynamic",
+    "Import"
+  ],
+  "author": "Bojan Zivkovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziveo/React-Dynamic-Import-ESRI-JS-API/issues"
+  }
+}

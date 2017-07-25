@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+button {
+  border: none;
+  height: 40px;
+  background-color: #9C27B0;
+  color: #fff;
+  font-size: 1em;
+  padding: 0 1em;
+  margin: 0 0.25em;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+button:hover {
+  background-color: #bd27d1;
+}
+
+#mapMount {
+  height: 600px;
+  width: 800px;
+  margin: 1.25em auto;
+  background-color: #cfcfd4;
+  border: 5px solid #cfcfd4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart__title {
+  margin: 0;
+  padding: 1em;
+}
