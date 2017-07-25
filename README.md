@@ -1,4 +1,6 @@
-This project is example of Create React App dynamically importing/loading ESRI API library
+This project is example of Create React App dynamically importing/loading ESRI API library.
+
+[Live Example](https://ziveo.github.io/React-Dynamic-Import-ESRI-JS-API/)
 
 ```jsx harmony
 import React, { Component } from 'react';
