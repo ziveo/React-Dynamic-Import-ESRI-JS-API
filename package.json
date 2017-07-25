@@ -1,7 +1,7 @@
 {
   "name": "react-dynamic-import-esri-js-api",
   "version": "1.0.0",
-  "description": "React JS – Dynamic Import ESRI JS API",
+  "description": "React JS – Dynamically Importing ESRI JS API",
   "homepage": "https://ziveo.github.com/React-Dynamic-Import-ESRI-JS-API",
   "dependencies": {
     "gh-pages": "^1.0.0",
