@@ -67,3 +67,6 @@ class App extends Component {
 
 export default App;
 ``` 
+
+[logo]: https://raw.githubusercontent.com/ziveo/React-Dynamic-Import-ESRI-JS-API/gh-pages/ziveo.github.io-React-Dynamic-Import-ESRI-JS-API.png "React JS – Dynamically Importing ESRI JS API"
+![alt text][logo]
